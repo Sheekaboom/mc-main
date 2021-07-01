@@ -1,0 +1,26 @@
+[
+  {
+    "uuid": "e8ece557-af0b-41ed-9625-aa582b8f6107",
+    "name": "TRounds",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "55685067-dcc4-4a66-95d2-07c6e1401c0b",
+    "name": "Sheekaboom",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "808e5412-7a8e-482d-90fb-cda503cd35dd",
+    "name": "HosingMiGs",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "4354348c-381b-4103-b24d-9ae07c69a935",
+    "name": "wvbilly",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
