@@ -431,6 +431,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2021-07-02 15:16:45 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2021-06-19 11:58:35 -0600"
@@ -611,6 +617,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2021-07-02 18:15:08 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2021-05-27 15:54:05 -0600"
@@ -779,12 +791,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2021-07-02 18:15:08 -0600"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2021-05-27 16:15:28 -0600",
+      "minecraft:pillager": "2021-07-02 15:42:55 -0600",
       "minecraft:skeleton": "2021-05-27 15:50:22 -0600",
       "minecraft:elder_guardian": "2021-06-23 12:39:53 -0600",
+      "minecraft:ravager": "2021-07-02 16:18:38 -0600",
       "minecraft:hoglin": "2021-05-27 22:56:00 -0600",
+      "minecraft:vindicator": "2021-07-02 16:10:16 -0600",
       "minecraft:magma_cube": "2021-05-27 18:18:58 -0600",
       "minecraft:spider": "2021-05-27 15:27:04 -0600",
       "minecraft:creeper": "2021-05-27 15:53:57 -0600",
@@ -793,6 +814,7 @@
       "minecraft:zombified_piglin": "2021-06-07 09:30:38 -0600",
       "minecraft:witch": "2021-06-10 20:15:19 -0600",
       "minecraft:wither_skeleton": "2021-05-27 17:41:05 -0600",
+      "minecraft:husk": "2021-07-02 19:40:51 -0600",
       "minecraft:cave_spider": "2021-06-06 19:46:05 -0600",
       "minecraft:piglin": "2021-05-27 16:17:49 -0600",
       "minecraft:enderman": "2021-05-27 15:25:30 -0600",
@@ -915,6 +937,12 @@
   "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2021-06-23 12:39:26 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2021-07-02 15:43:23 -0600"
     },
     "done": true
   },
@@ -1332,6 +1360,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
+    "criteria": {
+      "has_deepslate_tiles": "2021-07-02 18:15:08 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2021-06-19 11:59:30 -0600"
@@ -1449,6 +1483,12 @@
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2021-06-19 11:57:44 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
+    "criteria": {
+      "has_deepslate_tiles": "2021-07-02 18:15:08 -0600"
     },
     "done": true
   },
@@ -1585,11 +1625,14 @@
       "minecraft:mountains": "2021-05-27 15:03:51 -0600",
       "minecraft:forest": "2021-05-27 15:32:36 -0600",
       "minecraft:taiga": "2021-06-19 12:26:35 -0600",
+      "minecraft:desert_hills": "2021-07-02 19:37:05 -0600",
       "minecraft:giant_tree_taiga": "2021-06-19 12:37:44 -0600",
       "minecraft:deep_cold_ocean": "2021-05-27 15:28:06 -0600",
       "minecraft:taiga_hills": "2021-06-19 12:38:26 -0600",
+      "minecraft:desert": "2021-07-02 15:54:39 -0600",
       "minecraft:deep_frozen_ocean": "2021-06-23 11:33:13 -0600",
       "minecraft:jungle": "2021-05-27 22:02:57 -0600",
+      "minecraft:birch_forest": "2021-07-02 19:25:34 -0600",
       "minecraft:jungle_hills": "2021-05-27 22:02:58 -0600",
       "minecraft:snowy_beach": "2021-06-19 13:00:55 -0600",
       "minecraft:deep_lukewarm_ocean": "2021-06-16 17:25:56 -0600",
@@ -1597,12 +1640,14 @@
       "minecraft:dark_forest": "2021-05-27 22:02:29 -0600",
       "minecraft:river": "2021-05-27 14:59:39 -0600",
       "minecraft:lukewarm_ocean": "2021-06-16 17:26:05 -0600",
+      "minecraft:birch_forest_hills": "2021-07-02 19:25:28 -0600",
       "minecraft:wooded_mountains": "2021-05-27 14:59:42 -0600",
       "minecraft:wooded_hills": "2021-05-27 15:39:18 -0600",
       "minecraft:stone_shore": "2021-05-27 15:28:15 -0600",
       "minecraft:giant_tree_taiga_hills": "2021-06-19 12:37:57 -0600",
       "minecraft:swamp": "2021-05-27 22:17:05 -0600",
       "minecraft:snowy_taiga_hills": "2021-06-19 13:00:53 -0600",
+      "minecraft:savanna": "2021-07-02 19:38:54 -0600",
       "minecraft:plains": "2021-05-27 14:58:23 -0600"
     },
     "done": false
@@ -1694,6 +1739,12 @@
   "minecraft:recipes/building_blocks/quartz_bricks": {
     "criteria": {
       "has_quartz_block": "2021-06-10 11:13:25 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2021-07-02 18:15:08 -0600"
     },
     "done": true
   },
@@ -1974,6 +2025,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
     "criteria": {
       "has_white_dye": "2021-06-06 12:29:25 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2021-07-02 18:15:08 -0600"
     },
     "done": true
   },
@@ -2448,6 +2505,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2021-06-19 12:01:42 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_smelting_redstone_ore": {
+    "criteria": {
+      "has_redstone_ore": "2021-07-02 15:33:46 -0600"
     },
     "done": true
   },
@@ -3022,6 +3085,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_from_blasting_redstone_ore": {
+    "criteria": {
+      "has_redstone_ore": "2021-07-02 15:33:46 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-05-27 16:44:03 -0600"
@@ -3259,6 +3328,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2021-05-27 15:02:42 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2021-07-02 20:01:54 -0600"
     },
     "done": true
   },
@@ -3577,6 +3652,12 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2021-05-27 15:00:29 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_tiles": "2021-07-02 18:15:08 -0600"
     },
     "done": true
   },
