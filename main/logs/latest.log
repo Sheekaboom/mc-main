@@ -1,25 +1,7 @@
-[11:04:47] [User Authenticator #3/INFO]: UUID of player Sheekaboom is 55685067-dcc4-4a66-95d2-07c6e1401c0b
-[11:04:47] [Server thread/INFO]: Sheekaboom[/127.0.0.1:55674] logged in with entity id 29301 at (64.41749046049091, 81.0, -62.05853858897065)
-[11:04:47] [Server thread/INFO]: Sheekaboom joined the game
-[11:17:07] [Server thread/INFO]: [Sheekaboom: Set the time to 1000]
-[11:17:49] [Server thread/INFO]: Sheekaboom tried to swim in lava
-[11:27:37] [Server thread/INFO]: Sheekaboom tried to swim in lava
-[11:33:17] [Server thread/INFO]: Sheekaboom lost connection: Disconnected
-[11:33:17] [Server thread/INFO]: Sheekaboom left the game
-[11:40:42] [User Authenticator #4/INFO]: UUID of player Sheekaboom is 55685067-dcc4-4a66-95d2-07c6e1401c0b
-[11:40:42] [Server thread/INFO]: Sheekaboom[/127.0.0.1:59320] logged in with entity id 40218 at (881.3161727718692, 63.0, 273.61474685676944)
-[11:40:42] [Server thread/INFO]: Sheekaboom joined the game
-[11:41:02] [Server thread/INFO]: Sheekaboom tried to swim in lava
-[11:58:16] [Server thread/INFO]: Sheekaboom has made the advancement [Who is Cutting Onions?]
-[12:18:13] [Server thread/INFO]: Sheekaboom suffocated in a wall
-[12:18:15] [Server thread/WARN]: Sheekaboom moved too quickly! -9.200000011920906,-1.0,9.799999988079094
-[12:27:07] [Server thread/INFO]: Sheekaboom has completed the challenge [Hot Tourist Destinations]
-[12:33:04] [Server thread/INFO]: Sheekaboom was burnt to a crisp whilst fighting Blaze
-[12:45:04] [Server thread/INFO]: Sheekaboom was burnt to a crisp whilst fighting Blaze
-[12:50:19] [Server thread/INFO]: Sheekaboom has made the advancement [Into Fire]
-[13:25:52] [Server thread/INFO]: Sheekaboom suffocated in a wall
-[13:25:53] [Server thread/WARN]: Sheekaboom moved too quickly! -9.200000011920906,-1.0,9.799999988079094
-[14:36:52] [Server thread/INFO]: Sheekaboom suffocated in a wall
-[14:36:54] [Server thread/WARN]: Sheekaboom moved too quickly! -9.200000011920906,-1.0,9.799999988079094
-[14:37:31] [Server thread/INFO]: Sheekaboom lost connection: Disconnected
-[14:37:31] [Server thread/INFO]: Sheekaboom left the game
+[16:34:47] [User Authenticator #10/INFO]: UUID of player Sheekaboom is 55685067-dcc4-4a66-95d2-07c6e1401c0b
+[16:34:47] [Server thread/INFO]: Sheekaboom[/127.0.0.1:41586] logged in with entity id 85293 at (206.59633191491156, 11.0, -5539.327893473372)
+[16:34:47] [Server thread/INFO]: Sheekaboom joined the game
+[16:54:32] [Server thread/INFO]: Sheekaboom has made the advancement [The Parrots and the Bats]
+[17:11:22] [Server thread/INFO]: Sheekaboom tried to swim in lava
+[17:20:16] [Server thread/INFO]: Sheekaboom lost connection: Disconnected
+[17:20:16] [Server thread/INFO]: Sheekaboom left the game

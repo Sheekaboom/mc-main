@@ -1174,6 +1174,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2021-07-12 14:42:33 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/crimson_slab": {
     "criteria": {
       "has_planks": "2021-05-27 22:48:00 -0600"
@@ -3907,5 +3913,5 @@
     },
     "done": true
   },
-  "DataVersion": 2724
+  "DataVersion": 2730
 }
